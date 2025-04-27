@@ -981,7 +981,7 @@ nav h3 {
         animation-name: shape1animation;
     }
 
-    @keyframe shape1animation {
+    @keyframes shape1animation {
         0% {
             transform: rotate(-70deg);
         }
